@@ -1,0 +1,7 @@
+部门名次    部门名称    部门总分
+第 1 名   DeparmentA      28 
+第 2 名   DeparmentC      20 
+第 3 名   DeparmentB      16 
+第 4 名   DeparmentD      12 
+第 5 名   DeparmentE      8 
+第 6 名   DeparmentF      4 

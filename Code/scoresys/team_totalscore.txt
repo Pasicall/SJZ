@@ -1,0 +1,7 @@
+部门名次    部门名称     团队总分
+第 1 名   DeparmentA       14 
+第 2 名   DeparmentC       10 
+第 3 名   DeparmentB       8 
+第 4 名   DeparmentD       6 
+第 5 名   DeparmentE       4 
+第 6 名   DeparmentF       2 

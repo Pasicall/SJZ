@@ -1,0 +1,7 @@
+部门名称    部门编号    部门总分
+DeparmentA     1         28
+DeparmentB     2         16
+DeparmentC     3         20
+DeparmentD     4         12
+DeparmentE     5         8
+DeparmentF     6         4
